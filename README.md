@@ -17,6 +17,6 @@ Each time you guess a code, you will get information if the letter is in the cod
 
 ## What if you want to run it locally ?
 - To configure to run C++ is difficult, and you need to include dependencies. 
-- Go over to this project "" and download the dependencies. Follow the instructions on that Github page.
+- Go over to this project https://github.com/patrickhelv/Run-cpp-code-TDT4102 and download the dependencies. Follow the instructions on that Github page.
 - Run the project using "start debugging" in VS code.
 
